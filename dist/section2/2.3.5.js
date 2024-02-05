@@ -8,4 +8,4 @@
 // const str1: string = "Hello";
 // const str2: string = "world!";
 // console.log(`${str1}, ${str2}`);
-console.log(`123 + 456 = ${123 + 456}`);
+// console.log(`123 + 456 = ${123 + 456}`);
