@@ -1,3 +1,4 @@
+export {};
 // console.log(addResult);
 // const discounted = addResult * 0.7;
 // console.log(discounted);
@@ -12,6 +13,5 @@
 // console.log(res1);
 // const res2 = 2n ** 5n;
 // console.log(res2);
-const str = '123';
-console.log(123 * str);
-export {};
+// const str: string = '123';
+// console.log(123 * str);
