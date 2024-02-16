@@ -98,3 +98,25 @@
 //   ...obj2,
 // }
 // console.log(obj3);
+// 3.1.6
+// const foo = { num: 1234 };
+// const bar = foo;
+// console.log(bar.num);
+// bar.num = 0;
+// console.log(foo.num);
+// const foo = { num: 1234 };
+// const bar = { ...foo };
+// console.log(bar.num);
+// bar.num = 0;
+// console.log(foo.num);
+// const foo = { num: 1234 };
+// const bar = { num: 1234 };
+// const foo = { obj: { num: 1234 } };
+// const bar = { ...foo };
+// bar.obj.num = 0;
+// console.log(foo.obj.num);
+// const foo = { num: 1234 };
+// const bar = foo;
+// const baz = { num: 1234 };
+// console.log(foo === bar);
+// console.log(foo === baz);

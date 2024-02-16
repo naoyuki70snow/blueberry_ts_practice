@@ -10,5 +10,5 @@
 //   rl.close();
 // });
 
-console.log("foo" + true);
-console.log(null + "bar");
+// console.log("foo" + true);
+// console.log(null + "bar");
